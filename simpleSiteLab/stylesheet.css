@@ -1,0 +1,30 @@
+body{
+    background-color: #87CEEB;
+    color: azure;
+    border: 5px solid #49BF88;
+    padding: 30px;
+    margin: 30px;
+}
+
+h1{ 
+    text-align: center;
+}
+
+img{
+    height: 350px;
+    width: 30%;
+    float:right;
+}
+
+.paragraph{
+    float:left;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline;
+}
+
+nav{
+    text-align: center;
+}
